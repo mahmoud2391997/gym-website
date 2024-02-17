@@ -50,11 +50,11 @@ text-align: left;
    color: white;
 }
 .nav{
-width:56%; 
+width:60%; 
 height: 48px;
 position:absolute;
  top: 43px;
-  left: 41%;
+  left: 38%;
 display: block;
 }
 ul{
@@ -64,20 +64,20 @@ list-style: none;
       justify-content: space-between;
       align-items: center;
 margin: 0;
+padding-left: 0;
 }
 ul li{
     color: black;
   font-family: font-sans;
    font-weight: bold;
 text-align: center;
-font-size: 18px;
 }
 .button{
     border: none;
     background-color:transparent;
     color: #FFFFFF;
     font-family: sans-serif;
-    font-size: 16px;
+    font-size: 20px;
     cursor: pointer;
     font-weight: bold;
 }
